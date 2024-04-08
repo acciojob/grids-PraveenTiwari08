@@ -5,10 +5,17 @@
       background-color: rgb(41, 0, 0);
     }
     .row {
-		justify-content:center;
       border: 5px solid rgb(255, 188, 188);
       height: 200px;
     }
+.row2{
+	display:flex;
+	justify-content:space-between;
+}
+.row3{
+	display:flex;
+	justify-content:space-around;
+}
     .col {
       border: 2px dotted rgb(38, 38, 43);
     }
@@ -24,9 +31,9 @@
     .r2c2 {
       background-color: turquoise;
     }
-    .row3-col1 {
+    .r3c1 {
       background-color: violet;
     }
-    .row3-col2 {
+    .r3c2 {
       background-color: yellowgreen;
     }
