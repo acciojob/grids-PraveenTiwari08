@@ -11,10 +11,10 @@
     .col {
       border: 2px dotted rgb(38, 38, 43);
     }
-    .row1-col1 {
+    .r1c1 {
       background-color: teal;
     }
-    .row1-col2 {
+    .r1c2 {
       background-color: thistle;
     }
     .r2c1 {
